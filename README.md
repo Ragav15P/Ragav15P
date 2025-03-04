@@ -7,47 +7,53 @@
 
 ---
 
-### 📍 Location
+## 📍 Location
 - 🌍 I live in **Kurnool, India**
 
-### 🔭 Currently Working On  
+## 🔭 Currently Working On  
 - 🚀 [100 Days of Code Challenge](https://github.com/Ragav15P/100DaysOfCode)  
 - 🛠 [Mentorship Booking (Inspired by Topmate)](https://github.com/Ragav15P/MentorShipBooking)
 
-### 🌱 Currently Learning  
+## 🌱 Currently Learning  
 - ⚡ **Spring Boot, React, Advanced DSA**
 
-### 👨‍💻 My Portfolio  
+## 👨‍💻 My Portfolio  
 - 🌐 [Visit My Portfolio](https://updated-personal-portfolio-full-mef1tykyi.vercel.app/)
 
-### 💻 Tech Stack  
+## 💻 Tech Stack  
 - **Languages & Frameworks:** Java, SQL, Spring Boot  
 - **Frontend:** HTML, CSS, JavaScript (Moderate), React (Learning)  
 - **Other Familiar Tech:** Python  
 
-### 📫 Contact Me  
+## 📫 Contact Me  
 - 📧 Email: [rag18av@gmail.com](mailto:rag18av@gmail.com)  
 - 📄 Resume: [View My Resume](https://drive.google.com/file/d/11DO29xCBmz1kDbuYokCGBYv_hYQ8qTKW/view?usp=drivesdk)  
 
-### 🌍 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ragav15P)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hello_ragav7/)
+## 🌍 Connect with Me  
+<p align="center">
+  <a href="https://github.com/Ragav15P">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/hello_ragav7/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ragav15P&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-### 🔥 GitHub Streak  
+## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragav15P&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ragav15P&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🚀 Languages & Tools  
+## 🚀 Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,python,sql,git,github" />
 </p>
