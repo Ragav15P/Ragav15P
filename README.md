@@ -11,7 +11,7 @@
 - 🌍 I live in **Kurnool, India**
 
 ## 🔭 Currently Working On  
-- 🚀 [100 Days of Code Challenge](https://github.com/Ragav15P/100DaysOfCode)  
+- 🚀 [100 Days of Code Challenge](https://github.com/Ragav15P/DSA)  
 - 🛠 [Mentorship Booking (Inspired by Topmate)](https://github.com/Ragav15P/MentorShipBooking)
 
 ## 🌱 Currently Learning  
