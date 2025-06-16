@@ -17,8 +17,8 @@
 ## 🌱 Currently Learning  
 - ⚡ **Spring Boot, React, Advanced DSA**
 
-## 👨‍💻 My Portfolio  
-- 🌐 [Visit My Portfolio](https://updated-personal-portfolio-full-mef1tykyi.vercel.app/)
+👨‍💻 My Portfolio
+🌐 View My Live Portfolio
 
 ## 💻 Tech Stack  
 - **Languages & Frameworks:** Java, SQL, Spring Boot  
