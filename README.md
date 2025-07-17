@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raagavendra</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Passionate about Spring Boot & React</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Passionate about Spring Boot & DSA</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ragav15P&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,7 +12,7 @@
 
 ## 🔭 Currently Working On  
 - 🚀 [100 Days of Code Challenge](https://github.com/Ragav15P/DSA)  
-- 🛠 [Mentorship Booking (Inspired by Topmate)](https://github.com/Ragav15P/MentorShipBooking)
+- 🛠 [Mentorship Booking (Inspired by Topmate)
 
 ## 🌱 Currently Learning  
 - ⚡ **Spring Boot, React, Advanced DSA**
@@ -27,7 +27,7 @@
 
 ## 📫 Contact Me  
 - 📧 Email: [rag18av@gmail.com](mailto:rag18av@gmail.com)  
-- 📄 Resume: [View My Resume](https://drive.google.com/file/d/11DO29xCBmz1kDbuYokCGBYv_hYQ8qTKW/view?usp=drivesdk)  
+- 📄 Resume: [View My Resume](https://drive.google.com/drive/folders/1BMEJ1H1xCb0Bnn0r7K8i8Qg0iOlUfpPt)  
 
 ## 🌍 Connect with Me  
 <p align="center">
