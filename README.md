@@ -27,7 +27,6 @@
 
 ## 📫 Contact Me  
 - 📧 Email: [rag18av@gmail.com](mailto:rag18av@gmail.com)  
-- 📄 Resume: [View My Resume](https://drive.google.com/drive/folders/1BMEJ1H1xCb0Bnn0r7K8i8Qg0iOlUfpPt)  
 
 ## 🌍 Connect with Me  
 <p align="center">
