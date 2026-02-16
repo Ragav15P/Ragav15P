@@ -11,18 +11,18 @@
 - 🌍 I live in **Kurnool, India**
 
 ## 🔭 Currently Working On  
-- 🚀 [100 Days of Code Challenge](https://github.com/Ragav15P/DSA)  
+ 
 - 🛠 [Mentorship Booking (Inspired by Topmate)
 
 ## 🌱 Currently Learning  
-- ⚡ **Spring Boot, React, Advanced DSA**
+- ⚡ **Spring Boot, Advanced DSA**
 
 ## 👨‍💻 My Portfolio  
 - 🌐 **[View My Live Portfolio](https://demo-deployment-latest-h96x.onrender.com/)**
 
 ## 💻 Tech Stack  
 - **Languages & Frameworks:** Java, SQL, Spring Boot  
-- **Frontend:** HTML, CSS, JavaScript (Moderate), React (Learning)  
+
 - **Other Familiar Tech:** Python  
 
 ## 📫 Contact Me  
@@ -52,7 +52,4 @@
 
 ---
 
-## 🚀 Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,python,sql,git,github" />
-</p>
+
