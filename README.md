@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raagavendra</h1>
 <h3 align="center">Java FSD | Spring Boot & DSA</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ragav15P&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
